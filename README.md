@@ -24,6 +24,8 @@
   기존 러닝 앱을 개선하여 플로깅 협업 커뮤니케이션 역할을 하기 위해 사용자의 실시간 위치, 러닝 시간 등을 나타내고, 쓰레기 스팟/공공 쓰레기통 위치를 공유하는 앱
   * 부산SW기술아이디어톤 제출작
   * **MVVM** 디자인 패턴
+  * GoogleMap API를 사용하여 사용자의 실시간 위치 표시 및 쓰레기 스팟/공공 쓰레기통 위치 표시
+  * **MVVM** 디자인 패턴
   * AAC의 **Navigation, ViewModel, LiveData, DataBinding, ViewBinding, Lifecycle**
   * Android Volley를 이용하여 서버와 연동하고, Gson을 이용하여 JSON 형식으로 쓰레기 스팟/공공 쓰레기통 위치 데이터 공유
   * 직관적인 UI/UX 구현 고민
